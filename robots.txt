@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fedovepi.github.io/sitemap/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/URV/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/bpF/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/VAa/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/NOV/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/rHE/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/OMu/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/skc/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/FVc/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/aNo/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/mGb/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/cSf/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/SxF/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/hgL/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/YEd/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/WAT/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/dUN/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/lDI/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/vih/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/dhG/sitemap_index.fedovepi
+Sitemap: https://fedovepi.github.io/Gqn/sitemap_index.fedovepi
